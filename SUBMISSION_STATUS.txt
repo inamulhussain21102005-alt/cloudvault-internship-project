@@ -1,0 +1,7 @@
+CloudVault internship project package
+
+Included: Flask source, templates, styles, architecture diagram, editable Word report template, report content draft, setup notes.
+
+Verification performed: Flask test-client checks passed for registration, login, upload, dashboard listing, download, delete-to-Trash, restore, unsupported file rejection, and per-user ownership isolation.
+
+Still needed before college submission: genuine browser screenshots captured on the student's laptop; replace the report identity/provider/date placeholders with accurate details; add the genuine internship certificate from the actual provider if the college requires it. This package does not claim that the app is deployed to a cloud provider.
